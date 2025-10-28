@@ -27,3 +27,5 @@ This project allows users to **browse and filter products** by category and pric
 
 ## 📁 Folder Structure
 
+.
+
